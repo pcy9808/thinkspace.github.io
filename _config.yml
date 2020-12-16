@@ -5,7 +5,7 @@ description   : "Minimalist technical writing blog."
 keywords      : "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
 url           : https://pcy9808.github.io/ # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
-cover         : "https://variety.com/wp-content/uploads/2017/12/princess-mononoke.jpg" # image uri like logo/cover image for site seo
+cover         : "" # image uri like logo/cover image for site seo
 
 google_analytics  : G-4KDSHVYRFZ
 twitter_username  : ""
