@@ -10,7 +10,7 @@ keywords: "github, minimal, dummy content, tech, blog"
 ## 이 블로그를 왜 썼는가 
 ###### (그렇게 넣고 싶엇던 이미지 이렇게 넣어본다)  
 
-뭔가 첫 시작을 어떻게 해야 될지 엄청나게 고민했는데 그냥 아무거나<img width="150" src="https://variety.com/wp-content/uploads/2017/12/princess-mononoke.jpg" alt="princess-mononoke" style="float:right;" title="A Wild Cherry (Prunus avium) in flower"> 해보려고 만들어봤다. Notion으로 뭔가 ~~생산적인~~ 것을 기대했지만 그조차도 쉽지 않고 일기장으로도 쉽지 않다. 다양한 templete을 사용하는 데 그쳤다. 하고 싶지 않은 회사 생활 속에서 **"나"** 를 잃어간 것 같다. 기억하고 싶지 않아서 점점 내 일상은 기억나지 않았고 새로 태어난 느낌이었다. 사회생활이라는 게 조직에 있는 다는 게 이렇게 맞지 않는 것인가.. 내가 그렇게 유별나게 이상한가.. 그런 생각을 했었던 과거다.. 대략 세보니 <u>8명의 팀장님을 겪었고 4년, 연차로 5년을 바라본다.</u> 아직 20대 초반으로 너무 부족한 게 많이 느껴진다 이젠 퇴사도 번복하고 직장생활에서 겪어볼 힘든 건 다 겪은 시기이다.
+뭔가 첫 시작을 어떻게 해야 될지 엄청나게 고민했는데 그냥 아무거나<img width="150" src="/assets/images/princess-mononoke.jpg" alt="princess-mononoke" style="float:right;" title="A Wild Cherry (Prunus avium) in flower"> 해보려고 만들어봤다. Notion으로 뭔가 ~~생산적인~~ 것을 기대했지만 그조차도 쉽지 않고 일기장으로도 쉽지 않다. 다양한 templete을 사용하는 데 그쳤다. 하고 싶지 않은 회사 생활 속에서 **"나"** 를 잃어간 것 같다. 기억하고 싶지 않아서 점점 내 일상은 기억나지 않았고 새로 태어난 느낌이었다. 사회생활이라는 게 조직에 있는 다는 게 이렇게 맞지 않는 것인가.. 내가 그렇게 유별나게 이상한가.. 그런 생각을 했었던 과거다.. 대략 세보니 <u>8명의 팀장님을 겪었고 4년, 연차로 5년을 바라본다.</u> 아직 20대 초반으로 너무 부족한 게 많이 느껴진다 이젠 퇴사도 번복하고 직장생활에서 겪어볼 힘든 건 다 겪은 시기이다.
 
 <br>
 <br>
