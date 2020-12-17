@@ -1,1 +1,1 @@
-Sitemap: http://window6r.github.io/sitemap.xml
+Sitemap: https://window6r.github.io/sitemap.xml
